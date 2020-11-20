@@ -1,4 +1,4 @@
-# bingo
+# Bingo
 
 A new Flutter application.
 
